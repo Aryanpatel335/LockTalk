@@ -8,7 +8,7 @@ This application was made for SFWRENG 3A04, with 4 other group members.
 
 [Project Demo](https://youtu.be/3CSwkFuFJS4)
 
-## LockTalk Summary:
+# LockTalk Summary:
 
 This project involved developing a secure chat application tailored for an organization that required highly confidential communication channels due to threats of corporate espionage. The application was developed using Java with the Android SDK in Android Studio, integrating Firebase for backend services. This solution aimed to ensure secure messaging through encryption and controlled key distribution, with a focus on authentication and privacy.
 
@@ -36,7 +36,7 @@ This project involved developing a secure chat application tailored for an organ
 - **Additional Libraries/Tools**: Included cryptographic libraries compatible with Java for enhanced security measures.
 
 
-The Outline of the project is as follows:
+# Detailed Project Breakdown:
 
 [Project Breakdown](https://github.com/Aryanpatel335/LockTalk/files/15211016/3A04_D4.pdf)
 
