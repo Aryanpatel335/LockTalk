@@ -1,10 +1,12 @@
 # LockTalk
 
+**Android Mobile Application written in Java**
+
 This application was made for SFWRENG 3A04, with 4 other group members.
 
 # Project Demo Link:
 
-https://youtu.be/3CSwkFuFJS4 
+[Project Demo](https://youtu.be/3CSwkFuFJS4)
 
 ## LockTalk Summary:
 
