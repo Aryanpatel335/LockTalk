@@ -4,6 +4,12 @@
 
 # LockTalk
 
+<p align="center">
+  <img width="222" alt="image" src="https://github.com/Aryanpatel335/LockTalk/assets/42017629/9751cb02-f4bb-421a-bd8f-61ee152a2e81">
+</p>
+
+
+
 **Android Mobile Application written in Java**
 
 This application was made for SFWRENG 3A04, with 4 other group members.
