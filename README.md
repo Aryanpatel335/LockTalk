@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Aryanpatel335/LockTalk/assets/42017629/8be1ff18-4e50-4bcb-9dc7-4f136d527910" width="120" alt="image">
   <img src="https://github.com/Aryanpatel335/LockTalk/assets/42017629/7a7451dd-616c-4226-9ddb-ff0abf3a72f3" width="222">
 </p>
 
