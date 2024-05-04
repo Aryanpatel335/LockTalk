@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Aryanpatel335/LockTalk/assets/42017629/7a7451dd-616c-4226-9ddb-ff0abf3a72f3" width="250">
+</p>
+
 # LockTalk
 
 **Android Mobile Application written in Java**
@@ -39,6 +43,5 @@ This project involved developing a secure chat application tailored for an organ
 # Detailed Project Breakdown:
 
 [Project Breakdown](https://github.com/Aryanpatel335/LockTalk/files/15211016/3A04_D4.pdf)
-
 
 
