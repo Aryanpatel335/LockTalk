@@ -16,7 +16,7 @@ This application was made for SFWRENG 3A04, with 4 other group members.
 
 # Project Demo Link:
 
-[Project Demo](https://youtu.be/3CSwkFuFJS4)
+# [Project Demo](https://youtu.be/3CSwkFuFJS4)
 
 # LockTalk Summary:
 
@@ -48,6 +48,6 @@ This project involved developing a secure chat application tailored for an organ
 
 # Detailed Project Breakdown:
 
-[Project Breakdown](https://github.com/Aryanpatel335/LockTalk/files/15211016/3A04_D4.pdf)
+# [Project Breakdown](https://github.com/Aryanpatel335/LockTalk/files/15211016/3A04_D4.pdf)
 
 
